@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Pose Detection](https://github.com/Shalini-lodhi/Pose-Detection)
 - 🌱 I’m currently learning **ReactJs**
-- 👯 I’m looking to collaborate on [Pose Detection](https://github.com/Shalini-lodhi/Pose-Detection
+- 👯 I’m looking to collaborate on [Pose Detection](https://github.com/Shalini-lodhi/Pose-Detection)
 - 🤔 I’m looking for help with **Web3**
 - 💬 Ask me about **Open Source contribution**
 - 📫 How to reach me: shalinilodhi01@gmail.com 
