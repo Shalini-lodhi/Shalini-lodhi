@@ -21,5 +21,5 @@
 <!-- GitHub Stats -->
 <p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalini-lodhi&hide_border=true&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-lodhi&layout=compact&theme=tokyonight&hide_border=true&&langs_count=8&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-lodhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&show_icons=true" />
 </p>
