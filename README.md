@@ -10,12 +10,12 @@
 - 💻 **Software Engineer with 2+ years of experience**
 - 🔭 **Currently working on:** Scalable backend applications, APIs, and microservices.
 - 🌱 **Currently learning:** Advanced System Design, Distributed Systems.
-- 📫 **Reach me at:** [shalinilodhi01@example.com](shalinilodhi01@example.com)
+- 📫 **Reach me at:** [shalinilodhi01@gmail.com](shalinilodhi01@gmail.com)
 - 📄 **Check out my Portfolio:** [Portfolio Link](https://www.linkedin.com/in/shalini-lodhi-07122001/)
 
 - 🧭 **Check out my github repository**:
 [low-level-design](https://github.com/Shalini-lodhi/system-design) |
-[solid-princple](https://github.com/Shalini-lodhi/solid-principle), | 
+[solid-princple](https://github.com/Shalini-lodhi/solid-principle) | 
 [design-pattern](https://github.com/Shalini-lodhi/design-patterns)
 
 <!-- GitHub Stats -->
