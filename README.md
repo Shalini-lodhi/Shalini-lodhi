@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shalini Lodhi 👋</h1>
-<h3 align="center">🚀 Software Development Engineer | 2+ YOE | Passionate about Fullstack & System Design</h3>
+<h3 align="center">🚀 Software Development Engineer | Passionate about Fullstack & System Design</h3>
 
 <!-- Profile Views Counter -->
 <p align="left"> 
@@ -7,7 +7,7 @@
 </p>
 
 ## **🔹 About Me**
-- 💻 **Software Engineer with 2+ years of experience**
+- 💻 **Software Engineer with 2 years of experience**
 - 🔭 **Currently working on:** Scalable backend applications, APIs, and microservices.
 - 🌱 **Currently learning:** Advanced System Design, Distributed Systems.
 - 📫 **Reach me at:** [shalinilodhi01@gmail.com](shalinilodhi01@gmail.com)
