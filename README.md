@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shalini Lodhi 👋</h1>
-<h3 align="center">🚀 Software Development Engineer | Passionate about Fullstack & System Design</h3>
+<h3 align="center">🚀 Software Development Engineer | Passionate about Fullstack Development</h3>
 
 <!-- Profile Views Counter -->
 <p align="left"> 
